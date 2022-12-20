@@ -1,8 +1,8 @@
 # Proyecto integrador individual - MercadoLiebre - Digital House
 
-Desafio frontend - Estructura de un sitio web
+Desafío frontend - Estructura de un sitio web
 
-Previews del desafio finalizado
+Previews del desafío finalizado
 
 HEADER:
 
