@@ -2,7 +2,7 @@
 
 Desafio frontend - Estructura de un sitio web
 
-Preview del desafio finalizado
+Previews del desafio finalizado
 
 HEADER:
 
